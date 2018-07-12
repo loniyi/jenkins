@@ -1,5 +1,5 @@
 
-package ca.uwo.csd.cs2212.USERNAME;
+package loniyi;
 
 import junit.framework.Assert;
 import org.junit.Before;
